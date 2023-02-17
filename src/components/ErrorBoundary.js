@@ -1,4 +1,3 @@
-import { render } from "react";
 import React, {Component} from "react";
 
 class ErrorBoundary extends Component {
